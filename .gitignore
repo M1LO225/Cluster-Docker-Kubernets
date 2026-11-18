@@ -1,2 +1,7 @@
-informe/_raw.pdf
-informe/_informe.html
+# Archivos locales que no se suben al repositorio
+capturas/
+informe/
+*.ps1
+*.pdf
+INFORME.md
+LEEME-DOCKER.md
